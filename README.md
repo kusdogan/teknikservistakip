@@ -27,4 +27,3 @@ Son olarak bu bilgileri girdikten sonra artisan ile veritabanını make etmeniz 
 php artisan migrate
 Bu işlemler bittikten sonra sisteme erişim sağlayacak kullanıcıyı oluşturmak gerekiyor. Bunun için command oluşturabilirsiniz veya alternatif olarak register alanını rotalardan açarak kayıt olduktan sonra geri kapatabilirsiniz.
 Bahsettiğim gibi tamamlanmış bir proje değil ama iş görebilecek ayarda diyebiliriz.
-
